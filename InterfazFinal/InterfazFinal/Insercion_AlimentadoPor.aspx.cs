@@ -21,7 +21,7 @@ namespace InterfazConsolidado
         {
             if (!this.IsValid) return;
             string insertSQL = "exec sp_Alimentado_Por @Codigo_Estudiante ='" + codestu.Text + "', @Codigo_Asignatura ='" +
-            codasi.Text + "',@Codigo_Docente ='" + coddoce + "';";
+            codasi.Text + "',@Codigo_Docente ='" + coddoce.Text + "';";
 
             SqlConnection con = new SqlConnection(connectionString2);
             SqlCommand cmd = new SqlCommand(insertSQL, con);
