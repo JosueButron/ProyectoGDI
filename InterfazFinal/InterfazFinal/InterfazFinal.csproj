@@ -1,0 +1,517 @@
+﻿<Project ToolsVersion="15.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props" Condition="Exists('..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props')" />
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{7453A4FC-BE6B-4E4D-B05E-B62716C645C5}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>InterfazFinal</RootNamespace>
+    <AssemblyName>InterfazFinal</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <UseIISExpress>true</UseIISExpress>
+    <Use64BitIISExpress />
+    <IISExpressSSLPort>44397</IISExpressSSLPort>
+    <IISExpressAnonymousAuthentication />
+    <IISExpressWindowsAuthentication />
+    <IISExpressUseClassicPipelineMode />
+    <UseGlobalApplicationHostFile />
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CodeDom.Providers.DotNetCompilerPlatform">
+      <HintPath>..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\lib\net45\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Aplicativo.html" />
+    <Content Include="Eliminar_AlimentadoPor_Completo.aspx" />
+    <Content Include="Eliminar_AlimentadoPor_Registro.aspx" />
+    <Content Include="Eliminar_CabeceraConsolidado.aspx" />
+    <Content Include="Eliminar_CabeceraListado.aspx" />
+    <Content Include="Eliminar_DetalleConsolidado_Completo.aspx" />
+    <Content Include="Eliminar_DetalleConsolidado_Registro.aspx" />
+    <Content Include="Eliminar_DetalleListado.aspx" />
+    <Content Include="Eliminar_Docente.aspx" />
+    <Content Include="Eliminar_Estudiante.aspx" />
+    <Content Include="Eliminar_ImpartidoPor.aspx" />
+    <Content Include="Eliminar_Inscribe.aspx" />
+    <Content Include="EscudoUCSM.png" />
+    <Content Include="Estilo.css" />
+    <Content Include="Estudiantes_Consulta.aspx" />
+    <Content Include="Insercion_AlimentadoPor.aspx" />
+    <Content Include="Insercion_Asignatura.aspx" />
+    <Content Include="Insercion_CabeceraConsolidado.aspx" />
+    <Content Include="Insercion_CabeceraListado.aspx" />
+    <Content Include="Insercion_DetalleConsolidado.aspx" />
+    <Content Include="Insercion_DetalleListado.aspx" />
+    <Content Include="Insercion_Docente.aspx" />
+    <Content Include="Insercion_EscuelaProfesional.aspx" />
+    <Content Include="Insercion_Estudiante.aspx" />
+    <Content Include="Insercion_ImpartidoPor.aspx" />
+    <Content Include="Insercion_Inscribe.aspx" />
+    <Content Include="Modificar_Docente.aspx" />
+    <Content Include="Modificar_Estudiante.aspx" />
+    <Content Include="Mostrar_AlimentadoPor.aspx" />
+    <Content Include="Mostrar_Asignatura.aspx" />
+    <Content Include="Mostrar_CabeceraConsolidado.aspx" />
+    <Content Include="Mostrar_CabeceraListado.aspx" />
+    <Content Include="Mostrar_DetalleConsolidado.aspx" />
+    <Content Include="Mostrar_DetalleListado.aspx" />
+    <Content Include="Mostrar_Docente.aspx" />
+    <Content Include="Mostrar_EscuelaProfesional.aspx" />
+    <Content Include="Mostrar_Estudiante.aspx" />
+    <Content Include="Mostrar_ImpartidoPor.aspx" />
+    <Content Include="Mostrar_Inscribe.aspx" />
+    <Content Include="Reporte_AsignaturaPorCodigoDocente.aspx" />
+    <Content Include="Reporte_CantidadEstudianteCurAnt.aspx" />
+    <Content Include="Reporte_ConsolidadoAplazados.aspx" />
+    <Content Include="Reporte_EstudianteAsignatura.aspx" />
+    <Content Include="Reporte_EstudiantesCursanMasUnaVez.aspx" />
+    <Content Include="Reporte_MayorMenorNota.aspx" />
+    <Content Include="Reporte_NotaFinalConsolidado.aspx" />
+    <Content Include="Reporte_NotasPorAsignatura.aspx" />
+    <Content Include="Reporte_NumeroAprobados.aspx" />
+    <Content Include="Reporte_NumeroDesaprobados.aspx" />
+    <Content Include="Reporte_NumerosDocente.aspx" />
+    <Content Include="Reporte_PromedioPorAlumno.aspx" />
+    <Content Include="Reporte_PromedioPporCodigo.aspx" />
+    <Content Include="Web.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Eliminar_AlimentadoPor_Completo.aspx.cs">
+      <DependentUpon>Eliminar_AlimentadoPor_Completo.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Eliminar_AlimentadoPor_Completo.aspx.designer.cs">
+      <DependentUpon>Eliminar_AlimentadoPor_Completo.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Eliminar_AlimentadoPor_Registro.aspx.cs">
+      <DependentUpon>Eliminar_AlimentadoPor_Registro.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Eliminar_AlimentadoPor_Registro.aspx.designer.cs">
+      <DependentUpon>Eliminar_AlimentadoPor_Registro.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Eliminar_CabeceraConsolidado.aspx.cs">
+      <DependentUpon>Eliminar_CabeceraConsolidado.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Eliminar_CabeceraConsolidado.aspx.designer.cs">
+      <DependentUpon>Eliminar_CabeceraConsolidado.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Eliminar_CabeceraListado.aspx.cs">
+      <DependentUpon>Eliminar_CabeceraListado.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Eliminar_CabeceraListado.aspx.designer.cs">
+      <DependentUpon>Eliminar_CabeceraListado.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Eliminar_DetalleConsolidado_Completo.aspx.cs">
+      <DependentUpon>Eliminar_DetalleConsolidado_Completo.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Eliminar_DetalleConsolidado_Completo.aspx.designer.cs">
+      <DependentUpon>Eliminar_DetalleConsolidado_Completo.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Eliminar_DetalleConsolidado_Registro.aspx.cs">
+      <DependentUpon>Eliminar_DetalleConsolidado_Registro.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Eliminar_DetalleConsolidado_Registro.aspx.designer.cs">
+      <DependentUpon>Eliminar_DetalleConsolidado_Registro.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Eliminar_DetalleListado.aspx.cs">
+      <DependentUpon>Eliminar_DetalleListado.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Eliminar_DetalleListado.aspx.designer.cs">
+      <DependentUpon>Eliminar_DetalleListado.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Eliminar_Docente.aspx.cs">
+      <DependentUpon>Eliminar_Docente.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Eliminar_Docente.aspx.designer.cs">
+      <DependentUpon>Eliminar_Docente.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Eliminar_Estudiante.aspx.cs">
+      <DependentUpon>Eliminar_Estudiante.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Eliminar_Estudiante.aspx.designer.cs">
+      <DependentUpon>Eliminar_Estudiante.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Eliminar_ImpartidoPor.aspx.cs">
+      <DependentUpon>Eliminar_ImpartidoPor.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Eliminar_ImpartidoPor.aspx.designer.cs">
+      <DependentUpon>Eliminar_ImpartidoPor.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Eliminar_Inscribe.aspx.cs">
+      <DependentUpon>Eliminar_Inscribe.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Eliminar_Inscribe.aspx.designer.cs">
+      <DependentUpon>Eliminar_Inscribe.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Estudiantes_Consulta.aspx.cs">
+      <DependentUpon>Estudiantes_Consulta.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Estudiantes_Consulta.aspx.designer.cs">
+      <DependentUpon>Estudiantes_Consulta.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Insercion_AlimentadoPor.aspx.cs">
+      <DependentUpon>Insercion_AlimentadoPor.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Insercion_AlimentadoPor.aspx.designer.cs">
+      <DependentUpon>Insercion_AlimentadoPor.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Insercion_Asignatura.aspx.cs">
+      <DependentUpon>Insercion_Asignatura.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Insercion_Asignatura.aspx.designer.cs">
+      <DependentUpon>Insercion_Asignatura.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Insercion_CabeceraConsolidado.aspx.cs">
+      <DependentUpon>Insercion_CabeceraConsolidado.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Insercion_CabeceraConsolidado.aspx.designer.cs">
+      <DependentUpon>Insercion_CabeceraConsolidado.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Insercion_CabeceraListado.aspx.cs">
+      <DependentUpon>Insercion_CabeceraListado.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Insercion_CabeceraListado.aspx.designer.cs">
+      <DependentUpon>Insercion_CabeceraListado.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Insercion_DetalleConsolidado.aspx.cs">
+      <DependentUpon>Insercion_DetalleConsolidado.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Insercion_DetalleConsolidado.aspx.designer.cs">
+      <DependentUpon>Insercion_DetalleConsolidado.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Insercion_DetalleListado.aspx.cs">
+      <DependentUpon>Insercion_DetalleListado.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Insercion_DetalleListado.aspx.designer.cs">
+      <DependentUpon>Insercion_DetalleListado.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Insercion_Docente.aspx.cs">
+      <DependentUpon>Insercion_Docente.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Insercion_Docente.aspx.designer.cs">
+      <DependentUpon>Insercion_Docente.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Insercion_EscuelaProfesional.aspx.cs">
+      <DependentUpon>Insercion_EscuelaProfesional.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Insercion_EscuelaProfesional.aspx.designer.cs">
+      <DependentUpon>Insercion_EscuelaProfesional.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Insercion_Estudiante.aspx.cs">
+      <DependentUpon>Insercion_Estudiante.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Insercion_Estudiante.aspx.designer.cs">
+      <DependentUpon>Insercion_Estudiante.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Insercion_ImpartidoPor.aspx.cs">
+      <DependentUpon>Insercion_ImpartidoPor.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Insercion_ImpartidoPor.aspx.designer.cs">
+      <DependentUpon>Insercion_ImpartidoPor.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Insercion_Inscribe.aspx.cs">
+      <DependentUpon>Insercion_Inscribe.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Insercion_Inscribe.aspx.designer.cs">
+      <DependentUpon>Insercion_Inscribe.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Modificar_Docente.aspx.cs">
+      <DependentUpon>Modificar_Docente.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Modificar_Docente.aspx.designer.cs">
+      <DependentUpon>Modificar_Docente.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Modificar_Estudiante.aspx.cs">
+      <DependentUpon>Modificar_Estudiante.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Modificar_Estudiante.aspx.designer.cs">
+      <DependentUpon>Modificar_Estudiante.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Mostrar_AlimentadoPor.aspx.cs">
+      <DependentUpon>Mostrar_AlimentadoPor.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Mostrar_AlimentadoPor.aspx.designer.cs">
+      <DependentUpon>Mostrar_AlimentadoPor.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Mostrar_Asignatura.aspx.cs">
+      <DependentUpon>Mostrar_Asignatura.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Mostrar_Asignatura.aspx.designer.cs">
+      <DependentUpon>Mostrar_Asignatura.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Mostrar_CabeceraConsolidado.aspx.cs">
+      <DependentUpon>Mostrar_CabeceraConsolidado.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Mostrar_CabeceraConsolidado.aspx.designer.cs">
+      <DependentUpon>Mostrar_CabeceraConsolidado.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Mostrar_CabeceraListado.aspx.cs">
+      <DependentUpon>Mostrar_CabeceraListado.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Mostrar_CabeceraListado.aspx.designer.cs">
+      <DependentUpon>Mostrar_CabeceraListado.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Mostrar_DetalleConsolidado.aspx.cs">
+      <DependentUpon>Mostrar_DetalleConsolidado.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Mostrar_DetalleConsolidado.aspx.designer.cs">
+      <DependentUpon>Mostrar_DetalleConsolidado.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Mostrar_DetalleListado.aspx.cs">
+      <DependentUpon>Mostrar_DetalleListado.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Mostrar_DetalleListado.aspx.designer.cs">
+      <DependentUpon>Mostrar_DetalleListado.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Mostrar_Docente.aspx.cs">
+      <DependentUpon>Mostrar_Docente.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Mostrar_Docente.aspx.designer.cs">
+      <DependentUpon>Mostrar_Docente.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Mostrar_EscuelaProfesional.aspx.cs">
+      <DependentUpon>Mostrar_EscuelaProfesional.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Mostrar_EscuelaProfesional.aspx.designer.cs">
+      <DependentUpon>Mostrar_EscuelaProfesional.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Mostrar_Estudiante.aspx.cs">
+      <DependentUpon>Mostrar_Estudiante.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Mostrar_Estudiante.aspx.designer.cs">
+      <DependentUpon>Mostrar_Estudiante.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Mostrar_ImpartidoPor.aspx.cs">
+      <DependentUpon>Mostrar_ImpartidoPor.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Mostrar_ImpartidoPor.aspx.designer.cs">
+      <DependentUpon>Mostrar_ImpartidoPor.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Mostrar_Inscribe.aspx.cs">
+      <DependentUpon>Mostrar_Inscribe.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Mostrar_Inscribe.aspx.designer.cs">
+      <DependentUpon>Mostrar_Inscribe.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Reporte_AsignaturaPorCodigoDocente.aspx.cs">
+      <DependentUpon>Reporte_AsignaturaPorCodigoDocente.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Reporte_AsignaturaPorCodigoDocente.aspx.designer.cs">
+      <DependentUpon>Reporte_AsignaturaPorCodigoDocente.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Reporte_CantidadEstudianteCurAnt.aspx.cs">
+      <DependentUpon>Reporte_CantidadEstudianteCurAnt.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Reporte_CantidadEstudianteCurAnt.aspx.designer.cs">
+      <DependentUpon>Reporte_CantidadEstudianteCurAnt.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Reporte_ConsolidadoAplazados.aspx.cs">
+      <DependentUpon>Reporte_ConsolidadoAplazados.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Reporte_ConsolidadoAplazados.aspx.designer.cs">
+      <DependentUpon>Reporte_ConsolidadoAplazados.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Reporte_EstudianteAsignatura.aspx.cs">
+      <DependentUpon>Reporte_EstudianteAsignatura.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Reporte_EstudianteAsignatura.aspx.designer.cs">
+      <DependentUpon>Reporte_EstudianteAsignatura.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Reporte_EstudiantesCursanMasUnaVez.aspx.cs">
+      <DependentUpon>Reporte_EstudiantesCursanMasUnaVez.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Reporte_EstudiantesCursanMasUnaVez.aspx.designer.cs">
+      <DependentUpon>Reporte_EstudiantesCursanMasUnaVez.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Reporte_MayorMenorNota.aspx.cs">
+      <DependentUpon>Reporte_MayorMenorNota.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Reporte_MayorMenorNota.aspx.designer.cs">
+      <DependentUpon>Reporte_MayorMenorNota.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Reporte_NotaFinalConsolidado.aspx.cs">
+      <DependentUpon>Reporte_NotaFinalConsolidado.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Reporte_NotaFinalConsolidado.aspx.designer.cs">
+      <DependentUpon>Reporte_NotaFinalConsolidado.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Reporte_NotasPorAsignatura.aspx.cs">
+      <DependentUpon>Reporte_NotasPorAsignatura.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Reporte_NotasPorAsignatura.aspx.designer.cs">
+      <DependentUpon>Reporte_NotasPorAsignatura.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Reporte_NumeroAprobados.aspx.cs">
+      <DependentUpon>Reporte_NumeroAprobados.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Reporte_NumeroAprobados.aspx.designer.cs">
+      <DependentUpon>Reporte_NumeroAprobados.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Reporte_NumeroDesaprobados.aspx.cs">
+      <DependentUpon>Reporte_NumeroDesaprobados.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Reporte_NumeroDesaprobados.aspx.designer.cs">
+      <DependentUpon>Reporte_NumeroDesaprobados.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Reporte_NumerosDocente.aspx.cs">
+      <DependentUpon>Reporte_NumerosDocente.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Reporte_NumerosDocente.aspx.designer.cs">
+      <DependentUpon>Reporte_NumerosDocente.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Reporte_PromedioPorAlumno.aspx.cs">
+      <DependentUpon>Reporte_PromedioPorAlumno.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Reporte_PromedioPorAlumno.aspx.designer.cs">
+      <DependentUpon>Reporte_PromedioPorAlumno.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Reporte_PromedioPporCodigo.aspx.cs">
+      <DependentUpon>Reporte_PromedioPporCodigo.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Reporte_PromedioPporCodigo.aspx.designer.cs">
+      <DependentUpon>Reporte_PromedioPporCodigo.aspx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+    <None Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+    <None Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+  </ItemGroup>
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>True</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>50488</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>https://localhost:44397/</IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>Este proyecto hace referencia a los paquetes NuGet que faltan en este equipo. Use la restauración de paquetes NuGet para descargarlos. Para obtener más información, consulte http://go.microsoft.com/fwlink/?LinkID=322105. El archivo que falta es {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props'))" />
+  </Target>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

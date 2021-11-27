@@ -1,5 +1,5 @@
 
-use Consolidado_De_Notas_DB;
+use DB_Consolidado;
 
 create table Estudiante (
 		Codigo char(10) not null primary key,

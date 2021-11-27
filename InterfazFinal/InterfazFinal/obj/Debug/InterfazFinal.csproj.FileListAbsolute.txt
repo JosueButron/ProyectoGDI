@@ -1,0 +1,293 @@
+D:\UCSM\SEXTO SEMESTRE\GESTIÓN DE DATOS E INFORMACIÓN\PRÁCTICAS\BD_CONSOLIDADONOTAS\FINAL\InterfazFinal\InterfazFinal\bin\InterfazFinal.dll.config
+D:\UCSM\SEXTO SEMESTRE\GESTIÓN DE DATOS E INFORMACIÓN\PRÁCTICAS\BD_CONSOLIDADONOTAS\FINAL\InterfazFinal\InterfazFinal\bin\InterfazFinal.dll
+D:\UCSM\SEXTO SEMESTRE\GESTIÓN DE DATOS E INFORMACIÓN\PRÁCTICAS\BD_CONSOLIDADONOTAS\FINAL\InterfazFinal\InterfazFinal\bin\InterfazFinal.pdb
+D:\UCSM\SEXTO SEMESTRE\GESTIÓN DE DATOS E INFORMACIÓN\PRÁCTICAS\BD_CONSOLIDADONOTAS\FINAL\InterfazFinal\InterfazFinal\bin\roslyn\csc.exe
+D:\UCSM\SEXTO SEMESTRE\GESTIÓN DE DATOS E INFORMACIÓN\PRÁCTICAS\BD_CONSOLIDADONOTAS\FINAL\InterfazFinal\InterfazFinal\bin\roslyn\csc.exe.config
+D:\UCSM\SEXTO SEMESTRE\GESTIÓN DE DATOS E INFORMACIÓN\PRÁCTICAS\BD_CONSOLIDADONOTAS\FINAL\InterfazFinal\InterfazFinal\bin\roslyn\csc.rsp
+D:\UCSM\SEXTO SEMESTRE\GESTIÓN DE DATOS E INFORMACIÓN\PRÁCTICAS\BD_CONSOLIDADONOTAS\FINAL\InterfazFinal\InterfazFinal\bin\roslyn\csi.exe
+D:\UCSM\SEXTO SEMESTRE\GESTIÓN DE DATOS E INFORMACIÓN\PRÁCTICAS\BD_CONSOLIDADONOTAS\FINAL\InterfazFinal\InterfazFinal\bin\roslyn\csi.exe.config
+D:\UCSM\SEXTO SEMESTRE\GESTIÓN DE DATOS E INFORMACIÓN\PRÁCTICAS\BD_CONSOLIDADONOTAS\FINAL\InterfazFinal\InterfazFinal\bin\roslyn\csi.rsp
+D:\UCSM\SEXTO SEMESTRE\GESTIÓN DE DATOS E INFORMACIÓN\PRÁCTICAS\BD_CONSOLIDADONOTAS\FINAL\InterfazFinal\InterfazFinal\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\UCSM\SEXTO SEMESTRE\GESTIÓN DE DATOS E INFORMACIÓN\PRÁCTICAS\BD_CONSOLIDADONOTAS\FINAL\InterfazFinal\InterfazFinal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\UCSM\SEXTO SEMESTRE\GESTIÓN DE DATOS E INFORMACIÓN\PRÁCTICAS\BD_CONSOLIDADONOTAS\FINAL\InterfazFinal\InterfazFinal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\UCSM\SEXTO SEMESTRE\GESTIÓN DE DATOS E INFORMACIÓN\PRÁCTICAS\BD_CONSOLIDADONOTAS\FINAL\InterfazFinal\InterfazFinal\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\UCSM\SEXTO SEMESTRE\GESTIÓN DE DATOS E INFORMACIÓN\PRÁCTICAS\BD_CONSOLIDADONOTAS\FINAL\InterfazFinal\InterfazFinal\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\UCSM\SEXTO SEMESTRE\GESTIÓN DE DATOS E INFORMACIÓN\PRÁCTICAS\BD_CONSOLIDADONOTAS\FINAL\InterfazFinal\InterfazFinal\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\UCSM\SEXTO SEMESTRE\GESTIÓN DE DATOS E INFORMACIÓN\PRÁCTICAS\BD_CONSOLIDADONOTAS\FINAL\InterfazFinal\InterfazFinal\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\UCSM\SEXTO SEMESTRE\GESTIÓN DE DATOS E INFORMACIÓN\PRÁCTICAS\BD_CONSOLIDADONOTAS\FINAL\InterfazFinal\InterfazFinal\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\UCSM\SEXTO SEMESTRE\GESTIÓN DE DATOS E INFORMACIÓN\PRÁCTICAS\BD_CONSOLIDADONOTAS\FINAL\InterfazFinal\InterfazFinal\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\UCSM\SEXTO SEMESTRE\GESTIÓN DE DATOS E INFORMACIÓN\PRÁCTICAS\BD_CONSOLIDADONOTAS\FINAL\InterfazFinal\InterfazFinal\bin\roslyn\Microsoft.Managed.Core.targets
+D:\UCSM\SEXTO SEMESTRE\GESTIÓN DE DATOS E INFORMACIÓN\PRÁCTICAS\BD_CONSOLIDADONOTAS\FINAL\InterfazFinal\InterfazFinal\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\UCSM\SEXTO SEMESTRE\GESTIÓN DE DATOS E INFORMACIÓN\PRÁCTICAS\BD_CONSOLIDADONOTAS\FINAL\InterfazFinal\InterfazFinal\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\UCSM\SEXTO SEMESTRE\GESTIÓN DE DATOS E INFORMACIÓN\PRÁCTICAS\BD_CONSOLIDADONOTAS\FINAL\InterfazFinal\InterfazFinal\bin\roslyn\System.AppContext.dll
+D:\UCSM\SEXTO SEMESTRE\GESTIÓN DE DATOS E INFORMACIÓN\PRÁCTICAS\BD_CONSOLIDADONOTAS\FINAL\InterfazFinal\InterfazFinal\bin\roslyn\System.Collections.Immutable.dll
+D:\UCSM\SEXTO SEMESTRE\GESTIÓN DE DATOS E INFORMACIÓN\PRÁCTICAS\BD_CONSOLIDADONOTAS\FINAL\InterfazFinal\InterfazFinal\bin\roslyn\System.Console.dll
+D:\UCSM\SEXTO SEMESTRE\GESTIÓN DE DATOS E INFORMACIÓN\PRÁCTICAS\BD_CONSOLIDADONOTAS\FINAL\InterfazFinal\InterfazFinal\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\UCSM\SEXTO SEMESTRE\GESTIÓN DE DATOS E INFORMACIÓN\PRÁCTICAS\BD_CONSOLIDADONOTAS\FINAL\InterfazFinal\InterfazFinal\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\UCSM\SEXTO SEMESTRE\GESTIÓN DE DATOS E INFORMACIÓN\PRÁCTICAS\BD_CONSOLIDADONOTAS\FINAL\InterfazFinal\InterfazFinal\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\UCSM\SEXTO SEMESTRE\GESTIÓN DE DATOS E INFORMACIÓN\PRÁCTICAS\BD_CONSOLIDADONOTAS\FINAL\InterfazFinal\InterfazFinal\bin\roslyn\System.Globalization.Calendars.dll
+D:\UCSM\SEXTO SEMESTRE\GESTIÓN DE DATOS E INFORMACIÓN\PRÁCTICAS\BD_CONSOLIDADONOTAS\FINAL\InterfazFinal\InterfazFinal\bin\roslyn\System.IO.Compression.dll
+D:\UCSM\SEXTO SEMESTRE\GESTIÓN DE DATOS E INFORMACIÓN\PRÁCTICAS\BD_CONSOLIDADONOTAS\FINAL\InterfazFinal\InterfazFinal\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\UCSM\SEXTO SEMESTRE\GESTIÓN DE DATOS E INFORMACIÓN\PRÁCTICAS\BD_CONSOLIDADONOTAS\FINAL\InterfazFinal\InterfazFinal\bin\roslyn\System.IO.FileSystem.dll
+D:\UCSM\SEXTO SEMESTRE\GESTIÓN DE DATOS E INFORMACIÓN\PRÁCTICAS\BD_CONSOLIDADONOTAS\FINAL\InterfazFinal\InterfazFinal\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\UCSM\SEXTO SEMESTRE\GESTIÓN DE DATOS E INFORMACIÓN\PRÁCTICAS\BD_CONSOLIDADONOTAS\FINAL\InterfazFinal\InterfazFinal\bin\roslyn\System.Net.Http.dll
+D:\UCSM\SEXTO SEMESTRE\GESTIÓN DE DATOS E INFORMACIÓN\PRÁCTICAS\BD_CONSOLIDADONOTAS\FINAL\InterfazFinal\InterfazFinal\bin\roslyn\System.Net.Sockets.dll
+D:\UCSM\SEXTO SEMESTRE\GESTIÓN DE DATOS E INFORMACIÓN\PRÁCTICAS\BD_CONSOLIDADONOTAS\FINAL\InterfazFinal\InterfazFinal\bin\roslyn\System.Reflection.Metadata.dll
+D:\UCSM\SEXTO SEMESTRE\GESTIÓN DE DATOS E INFORMACIÓN\PRÁCTICAS\BD_CONSOLIDADONOTAS\FINAL\InterfazFinal\InterfazFinal\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\UCSM\SEXTO SEMESTRE\GESTIÓN DE DATOS E INFORMACIÓN\PRÁCTICAS\BD_CONSOLIDADONOTAS\FINAL\InterfazFinal\InterfazFinal\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\UCSM\SEXTO SEMESTRE\GESTIÓN DE DATOS E INFORMACIÓN\PRÁCTICAS\BD_CONSOLIDADONOTAS\FINAL\InterfazFinal\InterfazFinal\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\UCSM\SEXTO SEMESTRE\GESTIÓN DE DATOS E INFORMACIÓN\PRÁCTICAS\BD_CONSOLIDADONOTAS\FINAL\InterfazFinal\InterfazFinal\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\UCSM\SEXTO SEMESTRE\GESTIÓN DE DATOS E INFORMACIÓN\PRÁCTICAS\BD_CONSOLIDADONOTAS\FINAL\InterfazFinal\InterfazFinal\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\UCSM\SEXTO SEMESTRE\GESTIÓN DE DATOS E INFORMACIÓN\PRÁCTICAS\BD_CONSOLIDADONOTAS\FINAL\InterfazFinal\InterfazFinal\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\UCSM\SEXTO SEMESTRE\GESTIÓN DE DATOS E INFORMACIÓN\PRÁCTICAS\BD_CONSOLIDADONOTAS\FINAL\InterfazFinal\InterfazFinal\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\UCSM\SEXTO SEMESTRE\GESTIÓN DE DATOS E INFORMACIÓN\PRÁCTICAS\BD_CONSOLIDADONOTAS\FINAL\InterfazFinal\InterfazFinal\bin\roslyn\System.ValueTuple.dll
+D:\UCSM\SEXTO SEMESTRE\GESTIÓN DE DATOS E INFORMACIÓN\PRÁCTICAS\BD_CONSOLIDADONOTAS\FINAL\InterfazFinal\InterfazFinal\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\UCSM\SEXTO SEMESTRE\GESTIÓN DE DATOS E INFORMACIÓN\PRÁCTICAS\BD_CONSOLIDADONOTAS\FINAL\InterfazFinal\InterfazFinal\bin\roslyn\System.Xml.XmlDocument.dll
+D:\UCSM\SEXTO SEMESTRE\GESTIÓN DE DATOS E INFORMACIÓN\PRÁCTICAS\BD_CONSOLIDADONOTAS\FINAL\InterfazFinal\InterfazFinal\bin\roslyn\System.Xml.XPath.dll
+D:\UCSM\SEXTO SEMESTRE\GESTIÓN DE DATOS E INFORMACIÓN\PRÁCTICAS\BD_CONSOLIDADONOTAS\FINAL\InterfazFinal\InterfazFinal\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\UCSM\SEXTO SEMESTRE\GESTIÓN DE DATOS E INFORMACIÓN\PRÁCTICAS\BD_CONSOLIDADONOTAS\FINAL\InterfazFinal\InterfazFinal\bin\roslyn\vbc.exe
+D:\UCSM\SEXTO SEMESTRE\GESTIÓN DE DATOS E INFORMACIÓN\PRÁCTICAS\BD_CONSOLIDADONOTAS\FINAL\InterfazFinal\InterfazFinal\bin\roslyn\vbc.exe.config
+D:\UCSM\SEXTO SEMESTRE\GESTIÓN DE DATOS E INFORMACIÓN\PRÁCTICAS\BD_CONSOLIDADONOTAS\FINAL\InterfazFinal\InterfazFinal\bin\roslyn\vbc.rsp
+D:\UCSM\SEXTO SEMESTRE\GESTIÓN DE DATOS E INFORMACIÓN\PRÁCTICAS\BD_CONSOLIDADONOTAS\FINAL\InterfazFinal\InterfazFinal\bin\roslyn\VBCSCompiler.exe
+D:\UCSM\SEXTO SEMESTRE\GESTIÓN DE DATOS E INFORMACIÓN\PRÁCTICAS\BD_CONSOLIDADONOTAS\FINAL\InterfazFinal\InterfazFinal\bin\roslyn\VBCSCompiler.exe.config
+D:\UCSM\SEXTO SEMESTRE\GESTIÓN DE DATOS E INFORMACIÓN\PRÁCTICAS\BD_CONSOLIDADONOTAS\FINAL\InterfazFinal\InterfazFinal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\UCSM\SEXTO SEMESTRE\GESTIÓN DE DATOS E INFORMACIÓN\PRÁCTICAS\BD_CONSOLIDADONOTAS\FINAL\InterfazFinal\InterfazFinal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\UCSM\SEXTO SEMESTRE\GESTIÓN DE DATOS E INFORMACIÓN\PRÁCTICAS\BD_CONSOLIDADONOTAS\FINAL\InterfazFinal\InterfazFinal\obj\Debug\InterfazFinal.csproj.AssemblyReference.cache
+D:\UCSM\SEXTO SEMESTRE\GESTIÓN DE DATOS E INFORMACIÓN\PRÁCTICAS\BD_CONSOLIDADONOTAS\FINAL\InterfazFinal\InterfazFinal\obj\Debug\InterfazFinal.csproj.CoreCompileInputs.cache
+D:\UCSM\SEXTO SEMESTRE\GESTIÓN DE DATOS E INFORMACIÓN\PRÁCTICAS\BD_CONSOLIDADONOTAS\FINAL\InterfazFinal\InterfazFinal\obj\Debug\InterfazFinal.dll
+D:\UCSM\SEXTO SEMESTRE\GESTIÓN DE DATOS E INFORMACIÓN\PRÁCTICAS\BD_CONSOLIDADONOTAS\FINAL\InterfazFinal\InterfazFinal\obj\Debug\InterfazFinal.pdb
+C:\Users\Josue\Desktop\ga\InterfazFinal\InterfazFinal\bin\InterfazFinal.dll.config
+C:\Users\Josue\Desktop\ga\InterfazFinal\InterfazFinal\bin\InterfazFinal.dll
+C:\Users\Josue\Desktop\ga\InterfazFinal\InterfazFinal\bin\InterfazFinal.pdb
+C:\Users\Josue\Desktop\ga\InterfazFinal\InterfazFinal\bin\roslyn\csc.exe
+C:\Users\Josue\Desktop\ga\InterfazFinal\InterfazFinal\bin\roslyn\csc.exe.config
+C:\Users\Josue\Desktop\ga\InterfazFinal\InterfazFinal\bin\roslyn\csc.rsp
+C:\Users\Josue\Desktop\ga\InterfazFinal\InterfazFinal\bin\roslyn\csi.exe
+C:\Users\Josue\Desktop\ga\InterfazFinal\InterfazFinal\bin\roslyn\csi.exe.config
+C:\Users\Josue\Desktop\ga\InterfazFinal\InterfazFinal\bin\roslyn\csi.rsp
+C:\Users\Josue\Desktop\ga\InterfazFinal\InterfazFinal\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Josue\Desktop\ga\InterfazFinal\InterfazFinal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Josue\Desktop\ga\InterfazFinal\InterfazFinal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Josue\Desktop\ga\InterfazFinal\InterfazFinal\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Josue\Desktop\ga\InterfazFinal\InterfazFinal\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Josue\Desktop\ga\InterfazFinal\InterfazFinal\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Josue\Desktop\ga\InterfazFinal\InterfazFinal\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Josue\Desktop\ga\InterfazFinal\InterfazFinal\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Josue\Desktop\ga\InterfazFinal\InterfazFinal\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Josue\Desktop\ga\InterfazFinal\InterfazFinal\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Josue\Desktop\ga\InterfazFinal\InterfazFinal\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Josue\Desktop\ga\InterfazFinal\InterfazFinal\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Josue\Desktop\ga\InterfazFinal\InterfazFinal\bin\roslyn\System.AppContext.dll
+C:\Users\Josue\Desktop\ga\InterfazFinal\InterfazFinal\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Josue\Desktop\ga\InterfazFinal\InterfazFinal\bin\roslyn\System.Console.dll
+C:\Users\Josue\Desktop\ga\InterfazFinal\InterfazFinal\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Josue\Desktop\ga\InterfazFinal\InterfazFinal\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Josue\Desktop\ga\InterfazFinal\InterfazFinal\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Josue\Desktop\ga\InterfazFinal\InterfazFinal\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Josue\Desktop\ga\InterfazFinal\InterfazFinal\bin\roslyn\System.IO.Compression.dll
+C:\Users\Josue\Desktop\ga\InterfazFinal\InterfazFinal\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Josue\Desktop\ga\InterfazFinal\InterfazFinal\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Josue\Desktop\ga\InterfazFinal\InterfazFinal\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Josue\Desktop\ga\InterfazFinal\InterfazFinal\bin\roslyn\System.Net.Http.dll
+C:\Users\Josue\Desktop\ga\InterfazFinal\InterfazFinal\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Josue\Desktop\ga\InterfazFinal\InterfazFinal\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Josue\Desktop\ga\InterfazFinal\InterfazFinal\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Josue\Desktop\ga\InterfazFinal\InterfazFinal\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Josue\Desktop\ga\InterfazFinal\InterfazFinal\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Josue\Desktop\ga\InterfazFinal\InterfazFinal\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Josue\Desktop\ga\InterfazFinal\InterfazFinal\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Josue\Desktop\ga\InterfazFinal\InterfazFinal\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Josue\Desktop\ga\InterfazFinal\InterfazFinal\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Josue\Desktop\ga\InterfazFinal\InterfazFinal\bin\roslyn\System.ValueTuple.dll
+C:\Users\Josue\Desktop\ga\InterfazFinal\InterfazFinal\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Josue\Desktop\ga\InterfazFinal\InterfazFinal\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Josue\Desktop\ga\InterfazFinal\InterfazFinal\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Josue\Desktop\ga\InterfazFinal\InterfazFinal\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Josue\Desktop\ga\InterfazFinal\InterfazFinal\bin\roslyn\vbc.exe
+C:\Users\Josue\Desktop\ga\InterfazFinal\InterfazFinal\bin\roslyn\vbc.exe.config
+C:\Users\Josue\Desktop\ga\InterfazFinal\InterfazFinal\bin\roslyn\vbc.rsp
+C:\Users\Josue\Desktop\ga\InterfazFinal\InterfazFinal\bin\roslyn\VBCSCompiler.exe
+C:\Users\Josue\Desktop\ga\InterfazFinal\InterfazFinal\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Josue\Desktop\ga\InterfazFinal\InterfazFinal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Josue\Desktop\ga\InterfazFinal\InterfazFinal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Josue\Desktop\ga\InterfazFinal\InterfazFinal\obj\Debug\InterfazFinal.csproj.AssemblyReference.cache
+C:\Users\Josue\Desktop\ga\InterfazFinal\InterfazFinal\obj\Debug\InterfazFinal.csproj.CoreCompileInputs.cache
+C:\Users\Josue\Desktop\ga\InterfazFinal\InterfazFinal\obj\Debug\InterfazFinal.csproj.CopyComplete
+C:\Users\Josue\Desktop\ga\InterfazFinal\InterfazFinal\obj\Debug\InterfazFinal.dll
+C:\Users\Josue\Desktop\ga\InterfazFinal\InterfazFinal\obj\Debug\InterfazFinal.pdb
+C:\Users\USUARIO\Downloads\InterfazFinal4\InterfazFinal\InterfazFinal\bin\InterfazFinal.dll.config
+C:\Users\USUARIO\Downloads\InterfazFinal4\InterfazFinal\InterfazFinal\bin\InterfazFinal.dll
+C:\Users\USUARIO\Downloads\InterfazFinal4\InterfazFinal\InterfazFinal\bin\InterfazFinal.pdb
+C:\Users\USUARIO\Downloads\InterfazFinal4\InterfazFinal\InterfazFinal\bin\roslyn\csc.exe
+C:\Users\USUARIO\Downloads\InterfazFinal4\InterfazFinal\InterfazFinal\bin\roslyn\csc.exe.config
+C:\Users\USUARIO\Downloads\InterfazFinal4\InterfazFinal\InterfazFinal\bin\roslyn\csc.rsp
+C:\Users\USUARIO\Downloads\InterfazFinal4\InterfazFinal\InterfazFinal\bin\roslyn\csi.exe
+C:\Users\USUARIO\Downloads\InterfazFinal4\InterfazFinal\InterfazFinal\bin\roslyn\csi.exe.config
+C:\Users\USUARIO\Downloads\InterfazFinal4\InterfazFinal\InterfazFinal\bin\roslyn\csi.rsp
+C:\Users\USUARIO\Downloads\InterfazFinal4\InterfazFinal\InterfazFinal\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\USUARIO\Downloads\InterfazFinal4\InterfazFinal\InterfazFinal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\USUARIO\Downloads\InterfazFinal4\InterfazFinal\InterfazFinal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\USUARIO\Downloads\InterfazFinal4\InterfazFinal\InterfazFinal\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\USUARIO\Downloads\InterfazFinal4\InterfazFinal\InterfazFinal\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\USUARIO\Downloads\InterfazFinal4\InterfazFinal\InterfazFinal\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\USUARIO\Downloads\InterfazFinal4\InterfazFinal\InterfazFinal\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\USUARIO\Downloads\InterfazFinal4\InterfazFinal\InterfazFinal\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\USUARIO\Downloads\InterfazFinal4\InterfazFinal\InterfazFinal\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\USUARIO\Downloads\InterfazFinal4\InterfazFinal\InterfazFinal\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\USUARIO\Downloads\InterfazFinal4\InterfazFinal\InterfazFinal\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\USUARIO\Downloads\InterfazFinal4\InterfazFinal\InterfazFinal\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\USUARIO\Downloads\InterfazFinal4\InterfazFinal\InterfazFinal\bin\roslyn\System.AppContext.dll
+C:\Users\USUARIO\Downloads\InterfazFinal4\InterfazFinal\InterfazFinal\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\USUARIO\Downloads\InterfazFinal4\InterfazFinal\InterfazFinal\bin\roslyn\System.Console.dll
+C:\Users\USUARIO\Downloads\InterfazFinal4\InterfazFinal\InterfazFinal\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\USUARIO\Downloads\InterfazFinal4\InterfazFinal\InterfazFinal\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\USUARIO\Downloads\InterfazFinal4\InterfazFinal\InterfazFinal\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\USUARIO\Downloads\InterfazFinal4\InterfazFinal\InterfazFinal\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\USUARIO\Downloads\InterfazFinal4\InterfazFinal\InterfazFinal\bin\roslyn\System.IO.Compression.dll
+C:\Users\USUARIO\Downloads\InterfazFinal4\InterfazFinal\InterfazFinal\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\USUARIO\Downloads\InterfazFinal4\InterfazFinal\InterfazFinal\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\USUARIO\Downloads\InterfazFinal4\InterfazFinal\InterfazFinal\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\USUARIO\Downloads\InterfazFinal4\InterfazFinal\InterfazFinal\bin\roslyn\System.Net.Http.dll
+C:\Users\USUARIO\Downloads\InterfazFinal4\InterfazFinal\InterfazFinal\bin\roslyn\System.Net.Sockets.dll
+C:\Users\USUARIO\Downloads\InterfazFinal4\InterfazFinal\InterfazFinal\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\USUARIO\Downloads\InterfazFinal4\InterfazFinal\InterfazFinal\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\USUARIO\Downloads\InterfazFinal4\InterfazFinal\InterfazFinal\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\USUARIO\Downloads\InterfazFinal4\InterfazFinal\InterfazFinal\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\USUARIO\Downloads\InterfazFinal4\InterfazFinal\InterfazFinal\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\USUARIO\Downloads\InterfazFinal4\InterfazFinal\InterfazFinal\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\USUARIO\Downloads\InterfazFinal4\InterfazFinal\InterfazFinal\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\USUARIO\Downloads\InterfazFinal4\InterfazFinal\InterfazFinal\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\USUARIO\Downloads\InterfazFinal4\InterfazFinal\InterfazFinal\bin\roslyn\System.ValueTuple.dll
+C:\Users\USUARIO\Downloads\InterfazFinal4\InterfazFinal\InterfazFinal\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\USUARIO\Downloads\InterfazFinal4\InterfazFinal\InterfazFinal\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\USUARIO\Downloads\InterfazFinal4\InterfazFinal\InterfazFinal\bin\roslyn\System.Xml.XPath.dll
+C:\Users\USUARIO\Downloads\InterfazFinal4\InterfazFinal\InterfazFinal\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\USUARIO\Downloads\InterfazFinal4\InterfazFinal\InterfazFinal\bin\roslyn\vbc.exe
+C:\Users\USUARIO\Downloads\InterfazFinal4\InterfazFinal\InterfazFinal\bin\roslyn\vbc.exe.config
+C:\Users\USUARIO\Downloads\InterfazFinal4\InterfazFinal\InterfazFinal\bin\roslyn\vbc.rsp
+C:\Users\USUARIO\Downloads\InterfazFinal4\InterfazFinal\InterfazFinal\bin\roslyn\VBCSCompiler.exe
+C:\Users\USUARIO\Downloads\InterfazFinal4\InterfazFinal\InterfazFinal\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\USUARIO\Downloads\InterfazFinal4\InterfazFinal\InterfazFinal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\USUARIO\Downloads\InterfazFinal4\InterfazFinal\InterfazFinal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\USUARIO\Downloads\InterfazFinal4\InterfazFinal\InterfazFinal\obj\Debug\InterfazFinal.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Downloads\InterfazFinal4\InterfazFinal\InterfazFinal\obj\Debug\InterfazFinal.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Downloads\InterfazFinal4\InterfazFinal\InterfazFinal\obj\Debug\InterfazFinal.dll
+C:\Users\USUARIO\Downloads\InterfazFinal4\InterfazFinal\InterfazFinal\obj\Debug\InterfazFinal.pdb
+C:\Users\Josue\Desktop\Proyecto Final 5\InterfazFinal\InterfazFinal\bin\InterfazFinal.dll.config
+C:\Users\Josue\Desktop\Proyecto Final 5\InterfazFinal\InterfazFinal\bin\InterfazFinal.dll
+C:\Users\Josue\Desktop\Proyecto Final 5\InterfazFinal\InterfazFinal\bin\InterfazFinal.pdb
+C:\Users\Josue\Desktop\Proyecto Final 5\InterfazFinal\InterfazFinal\bin\roslyn\csc.exe
+C:\Users\Josue\Desktop\Proyecto Final 5\InterfazFinal\InterfazFinal\bin\roslyn\csc.exe.config
+C:\Users\Josue\Desktop\Proyecto Final 5\InterfazFinal\InterfazFinal\bin\roslyn\csc.rsp
+C:\Users\Josue\Desktop\Proyecto Final 5\InterfazFinal\InterfazFinal\bin\roslyn\csi.exe
+C:\Users\Josue\Desktop\Proyecto Final 5\InterfazFinal\InterfazFinal\bin\roslyn\csi.exe.config
+C:\Users\Josue\Desktop\Proyecto Final 5\InterfazFinal\InterfazFinal\bin\roslyn\csi.rsp
+C:\Users\Josue\Desktop\Proyecto Final 5\InterfazFinal\InterfazFinal\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Josue\Desktop\Proyecto Final 5\InterfazFinal\InterfazFinal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Josue\Desktop\Proyecto Final 5\InterfazFinal\InterfazFinal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Josue\Desktop\Proyecto Final 5\InterfazFinal\InterfazFinal\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Josue\Desktop\Proyecto Final 5\InterfazFinal\InterfazFinal\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Josue\Desktop\Proyecto Final 5\InterfazFinal\InterfazFinal\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Josue\Desktop\Proyecto Final 5\InterfazFinal\InterfazFinal\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Josue\Desktop\Proyecto Final 5\InterfazFinal\InterfazFinal\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Josue\Desktop\Proyecto Final 5\InterfazFinal\InterfazFinal\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Josue\Desktop\Proyecto Final 5\InterfazFinal\InterfazFinal\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Josue\Desktop\Proyecto Final 5\InterfazFinal\InterfazFinal\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Josue\Desktop\Proyecto Final 5\InterfazFinal\InterfazFinal\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Josue\Desktop\Proyecto Final 5\InterfazFinal\InterfazFinal\bin\roslyn\System.AppContext.dll
+C:\Users\Josue\Desktop\Proyecto Final 5\InterfazFinal\InterfazFinal\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Josue\Desktop\Proyecto Final 5\InterfazFinal\InterfazFinal\bin\roslyn\System.Console.dll
+C:\Users\Josue\Desktop\Proyecto Final 5\InterfazFinal\InterfazFinal\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Josue\Desktop\Proyecto Final 5\InterfazFinal\InterfazFinal\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Josue\Desktop\Proyecto Final 5\InterfazFinal\InterfazFinal\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Josue\Desktop\Proyecto Final 5\InterfazFinal\InterfazFinal\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Josue\Desktop\Proyecto Final 5\InterfazFinal\InterfazFinal\bin\roslyn\System.IO.Compression.dll
+C:\Users\Josue\Desktop\Proyecto Final 5\InterfazFinal\InterfazFinal\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Josue\Desktop\Proyecto Final 5\InterfazFinal\InterfazFinal\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Josue\Desktop\Proyecto Final 5\InterfazFinal\InterfazFinal\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Josue\Desktop\Proyecto Final 5\InterfazFinal\InterfazFinal\bin\roslyn\System.Net.Http.dll
+C:\Users\Josue\Desktop\Proyecto Final 5\InterfazFinal\InterfazFinal\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Josue\Desktop\Proyecto Final 5\InterfazFinal\InterfazFinal\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Josue\Desktop\Proyecto Final 5\InterfazFinal\InterfazFinal\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Josue\Desktop\Proyecto Final 5\InterfazFinal\InterfazFinal\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Josue\Desktop\Proyecto Final 5\InterfazFinal\InterfazFinal\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Josue\Desktop\Proyecto Final 5\InterfazFinal\InterfazFinal\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Josue\Desktop\Proyecto Final 5\InterfazFinal\InterfazFinal\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Josue\Desktop\Proyecto Final 5\InterfazFinal\InterfazFinal\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Josue\Desktop\Proyecto Final 5\InterfazFinal\InterfazFinal\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Josue\Desktop\Proyecto Final 5\InterfazFinal\InterfazFinal\bin\roslyn\System.ValueTuple.dll
+C:\Users\Josue\Desktop\Proyecto Final 5\InterfazFinal\InterfazFinal\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Josue\Desktop\Proyecto Final 5\InterfazFinal\InterfazFinal\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Josue\Desktop\Proyecto Final 5\InterfazFinal\InterfazFinal\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Josue\Desktop\Proyecto Final 5\InterfazFinal\InterfazFinal\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Josue\Desktop\Proyecto Final 5\InterfazFinal\InterfazFinal\bin\roslyn\vbc.exe
+C:\Users\Josue\Desktop\Proyecto Final 5\InterfazFinal\InterfazFinal\bin\roslyn\vbc.exe.config
+C:\Users\Josue\Desktop\Proyecto Final 5\InterfazFinal\InterfazFinal\bin\roslyn\vbc.rsp
+C:\Users\Josue\Desktop\Proyecto Final 5\InterfazFinal\InterfazFinal\bin\roslyn\VBCSCompiler.exe
+C:\Users\Josue\Desktop\Proyecto Final 5\InterfazFinal\InterfazFinal\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Josue\Desktop\Proyecto Final 5\InterfazFinal\InterfazFinal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Josue\Desktop\Proyecto Final 5\InterfazFinal\InterfazFinal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Josue\Desktop\Proyecto Final 5\InterfazFinal\InterfazFinal\obj\Debug\InterfazFinal.csproj.AssemblyReference.cache
+C:\Users\Josue\Desktop\Proyecto Final 5\InterfazFinal\InterfazFinal\obj\Debug\InterfazFinal.csproj.CoreCompileInputs.cache
+C:\Users\Josue\Desktop\Proyecto Final 5\InterfazFinal\InterfazFinal\obj\Debug\InterfazFinal.csproj.CopyComplete
+C:\Users\Josue\Desktop\Proyecto Final 5\InterfazFinal\InterfazFinal\obj\Debug\InterfazFinal.dll
+C:\Users\Josue\Desktop\Proyecto Final 5\InterfazFinal\InterfazFinal\obj\Debug\InterfazFinal.pdb
+D:\Repos Desarrollo de Aplicaciones\Repos Proyecto GDI\ProyectoGDI\InterfazFinal\InterfazFinal\bin\InterfazFinal.dll.config
+D:\Repos Desarrollo de Aplicaciones\Repos Proyecto GDI\ProyectoGDI\InterfazFinal\InterfazFinal\bin\InterfazFinal.dll
+D:\Repos Desarrollo de Aplicaciones\Repos Proyecto GDI\ProyectoGDI\InterfazFinal\InterfazFinal\bin\InterfazFinal.pdb
+D:\Repos Desarrollo de Aplicaciones\Repos Proyecto GDI\ProyectoGDI\InterfazFinal\InterfazFinal\bin\roslyn\csc.exe
+D:\Repos Desarrollo de Aplicaciones\Repos Proyecto GDI\ProyectoGDI\InterfazFinal\InterfazFinal\bin\roslyn\csc.exe.config
+D:\Repos Desarrollo de Aplicaciones\Repos Proyecto GDI\ProyectoGDI\InterfazFinal\InterfazFinal\bin\roslyn\csc.rsp
+D:\Repos Desarrollo de Aplicaciones\Repos Proyecto GDI\ProyectoGDI\InterfazFinal\InterfazFinal\bin\roslyn\csi.exe
+D:\Repos Desarrollo de Aplicaciones\Repos Proyecto GDI\ProyectoGDI\InterfazFinal\InterfazFinal\bin\roslyn\csi.exe.config
+D:\Repos Desarrollo de Aplicaciones\Repos Proyecto GDI\ProyectoGDI\InterfazFinal\InterfazFinal\bin\roslyn\csi.rsp
+D:\Repos Desarrollo de Aplicaciones\Repos Proyecto GDI\ProyectoGDI\InterfazFinal\InterfazFinal\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Repos Desarrollo de Aplicaciones\Repos Proyecto GDI\ProyectoGDI\InterfazFinal\InterfazFinal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Repos Desarrollo de Aplicaciones\Repos Proyecto GDI\ProyectoGDI\InterfazFinal\InterfazFinal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Repos Desarrollo de Aplicaciones\Repos Proyecto GDI\ProyectoGDI\InterfazFinal\InterfazFinal\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Repos Desarrollo de Aplicaciones\Repos Proyecto GDI\ProyectoGDI\InterfazFinal\InterfazFinal\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Repos Desarrollo de Aplicaciones\Repos Proyecto GDI\ProyectoGDI\InterfazFinal\InterfazFinal\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Repos Desarrollo de Aplicaciones\Repos Proyecto GDI\ProyectoGDI\InterfazFinal\InterfazFinal\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Repos Desarrollo de Aplicaciones\Repos Proyecto GDI\ProyectoGDI\InterfazFinal\InterfazFinal\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Repos Desarrollo de Aplicaciones\Repos Proyecto GDI\ProyectoGDI\InterfazFinal\InterfazFinal\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Repos Desarrollo de Aplicaciones\Repos Proyecto GDI\ProyectoGDI\InterfazFinal\InterfazFinal\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Repos Desarrollo de Aplicaciones\Repos Proyecto GDI\ProyectoGDI\InterfazFinal\InterfazFinal\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Repos Desarrollo de Aplicaciones\Repos Proyecto GDI\ProyectoGDI\InterfazFinal\InterfazFinal\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Repos Desarrollo de Aplicaciones\Repos Proyecto GDI\ProyectoGDI\InterfazFinal\InterfazFinal\bin\roslyn\System.AppContext.dll
+D:\Repos Desarrollo de Aplicaciones\Repos Proyecto GDI\ProyectoGDI\InterfazFinal\InterfazFinal\bin\roslyn\System.Collections.Immutable.dll
+D:\Repos Desarrollo de Aplicaciones\Repos Proyecto GDI\ProyectoGDI\InterfazFinal\InterfazFinal\bin\roslyn\System.Console.dll
+D:\Repos Desarrollo de Aplicaciones\Repos Proyecto GDI\ProyectoGDI\InterfazFinal\InterfazFinal\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Repos Desarrollo de Aplicaciones\Repos Proyecto GDI\ProyectoGDI\InterfazFinal\InterfazFinal\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Repos Desarrollo de Aplicaciones\Repos Proyecto GDI\ProyectoGDI\InterfazFinal\InterfazFinal\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Repos Desarrollo de Aplicaciones\Repos Proyecto GDI\ProyectoGDI\InterfazFinal\InterfazFinal\bin\roslyn\System.Globalization.Calendars.dll
+D:\Repos Desarrollo de Aplicaciones\Repos Proyecto GDI\ProyectoGDI\InterfazFinal\InterfazFinal\bin\roslyn\System.IO.Compression.dll
+D:\Repos Desarrollo de Aplicaciones\Repos Proyecto GDI\ProyectoGDI\InterfazFinal\InterfazFinal\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Repos Desarrollo de Aplicaciones\Repos Proyecto GDI\ProyectoGDI\InterfazFinal\InterfazFinal\bin\roslyn\System.IO.FileSystem.dll
+D:\Repos Desarrollo de Aplicaciones\Repos Proyecto GDI\ProyectoGDI\InterfazFinal\InterfazFinal\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Repos Desarrollo de Aplicaciones\Repos Proyecto GDI\ProyectoGDI\InterfazFinal\InterfazFinal\bin\roslyn\System.Net.Http.dll
+D:\Repos Desarrollo de Aplicaciones\Repos Proyecto GDI\ProyectoGDI\InterfazFinal\InterfazFinal\bin\roslyn\System.Net.Sockets.dll
+D:\Repos Desarrollo de Aplicaciones\Repos Proyecto GDI\ProyectoGDI\InterfazFinal\InterfazFinal\bin\roslyn\System.Reflection.Metadata.dll
+D:\Repos Desarrollo de Aplicaciones\Repos Proyecto GDI\ProyectoGDI\InterfazFinal\InterfazFinal\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Repos Desarrollo de Aplicaciones\Repos Proyecto GDI\ProyectoGDI\InterfazFinal\InterfazFinal\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Repos Desarrollo de Aplicaciones\Repos Proyecto GDI\ProyectoGDI\InterfazFinal\InterfazFinal\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Repos Desarrollo de Aplicaciones\Repos Proyecto GDI\ProyectoGDI\InterfazFinal\InterfazFinal\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Repos Desarrollo de Aplicaciones\Repos Proyecto GDI\ProyectoGDI\InterfazFinal\InterfazFinal\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Repos Desarrollo de Aplicaciones\Repos Proyecto GDI\ProyectoGDI\InterfazFinal\InterfazFinal\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Repos Desarrollo de Aplicaciones\Repos Proyecto GDI\ProyectoGDI\InterfazFinal\InterfazFinal\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Repos Desarrollo de Aplicaciones\Repos Proyecto GDI\ProyectoGDI\InterfazFinal\InterfazFinal\bin\roslyn\System.ValueTuple.dll
+D:\Repos Desarrollo de Aplicaciones\Repos Proyecto GDI\ProyectoGDI\InterfazFinal\InterfazFinal\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Repos Desarrollo de Aplicaciones\Repos Proyecto GDI\ProyectoGDI\InterfazFinal\InterfazFinal\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Repos Desarrollo de Aplicaciones\Repos Proyecto GDI\ProyectoGDI\InterfazFinal\InterfazFinal\bin\roslyn\System.Xml.XPath.dll
+D:\Repos Desarrollo de Aplicaciones\Repos Proyecto GDI\ProyectoGDI\InterfazFinal\InterfazFinal\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Repos Desarrollo de Aplicaciones\Repos Proyecto GDI\ProyectoGDI\InterfazFinal\InterfazFinal\bin\roslyn\vbc.exe
+D:\Repos Desarrollo de Aplicaciones\Repos Proyecto GDI\ProyectoGDI\InterfazFinal\InterfazFinal\bin\roslyn\vbc.exe.config
+D:\Repos Desarrollo de Aplicaciones\Repos Proyecto GDI\ProyectoGDI\InterfazFinal\InterfazFinal\bin\roslyn\vbc.rsp
+D:\Repos Desarrollo de Aplicaciones\Repos Proyecto GDI\ProyectoGDI\InterfazFinal\InterfazFinal\bin\roslyn\VBCSCompiler.exe
+D:\Repos Desarrollo de Aplicaciones\Repos Proyecto GDI\ProyectoGDI\InterfazFinal\InterfazFinal\bin\roslyn\VBCSCompiler.exe.config
+D:\Repos Desarrollo de Aplicaciones\Repos Proyecto GDI\ProyectoGDI\InterfazFinal\InterfazFinal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Repos Desarrollo de Aplicaciones\Repos Proyecto GDI\ProyectoGDI\InterfazFinal\InterfazFinal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Repos Desarrollo de Aplicaciones\Repos Proyecto GDI\ProyectoGDI\InterfazFinal\InterfazFinal\obj\Debug\InterfazFinal.csproj.AssemblyReference.cache
+D:\Repos Desarrollo de Aplicaciones\Repos Proyecto GDI\ProyectoGDI\InterfazFinal\InterfazFinal\obj\Debug\InterfazFinal.csproj.CoreCompileInputs.cache
+D:\Repos Desarrollo de Aplicaciones\Repos Proyecto GDI\ProyectoGDI\InterfazFinal\InterfazFinal\obj\Debug\InterfazFinal.csproj.CopyComplete
+D:\Repos Desarrollo de Aplicaciones\Repos Proyecto GDI\ProyectoGDI\InterfazFinal\InterfazFinal\obj\Debug\InterfazFinal.dll
+D:\Repos Desarrollo de Aplicaciones\Repos Proyecto GDI\ProyectoGDI\InterfazFinal\InterfazFinal\obj\Debug\InterfazFinal.pdb
