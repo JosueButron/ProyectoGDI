@@ -328,7 +328,7 @@ as
 
 GO
 
-create procedure sp_elimnicacion_detalle_consolidado_por_registro
+create procedure sp_eliminacion_detalle_consolidado_por_registro
 	@codigoestudiante char(10),
 	@codigoasignatura char(7)
 as
