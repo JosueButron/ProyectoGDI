@@ -209,7 +209,7 @@
                     <asp:Label ID="Label5" runat="server" Text="Label"></asp:Label>
                 </asp:View>
                 <asp:View ID="View6" runat="server">
-                    Ingrese el Tipo de Docente a actualizar:<asp:TextBox ID="TextBox7" runat="server"></asp:TextBox>
+                    Ingrese el Tipo de Estudiante a actualizar:<asp:TextBox ID="TextBox7" runat="server"></asp:TextBox>
                     <br />
                     <asp:Button ID="Button6" runat="server" OnClick="Button6_Click" Text="Actualizar" />
                     <br />
